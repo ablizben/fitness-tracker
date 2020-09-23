@@ -9,7 +9,10 @@ The fitness tracker is an application in which the user can add, view, and track
 ## User story
 
 ``` 
-As a user, I want to be able to view create and track daily workouts. I want to be able to log multiple exercises in a workout on a given day. I should also be able to track the name, type, weight, sets, reps, and duration of exercise. If the exercise is a cardio exercise, I should be able to track my distance traveled.
+As a user, I want to be able to view create and track daily workouts. 
+I want to be able to log multiple exercises in a workout on a given day. 
+I should also be able to track the name, type, weight, sets, reps, and duration of exercise. 
+If the exercise is a cardio exercise, I should be able to track my distance traveled.
 
 
 ```
@@ -19,7 +22,6 @@ As a user, I want to be able to view create and track daily workouts. I want to 
             
 * [Installation](#Installation)
 * [Built With](#Usage) 
-* [Contributors](#Contributors) 
 
 
 ## Installation
@@ -46,7 +48,7 @@ If you'd like to get a copy of the project up and running on your local machine 
 ## Built With
 
 - [Node.js](https://nodejs.org/en/) - Javascript Runtime Environment
-- [MongoDB](https://getbootstrap.com/) - 
+- [MongoDB](https://mongodb.com/) - NoSQL Document-oriented Database
 - Javascript, HTML, CSS
 
 
