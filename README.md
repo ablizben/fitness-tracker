@@ -4,7 +4,11 @@
 
 The fitness tracker is an application in which the user can add, view, and track their daily workouts by specifics, include weights, time duration, and how many reps or sets. 
 
-![](demoscreenshot.png)
+
+
+![](fitnesstracker1.png)
+
+![](fitnesstracker2.png)
 
 ## User story
 
